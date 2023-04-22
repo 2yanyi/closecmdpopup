@@ -16,7 +16,7 @@ import (
     "github.com/gen2brain/dlgs"
 
     // 添加这一行代码就可以实现关闭 CMD 窗口
-    _ "github.com/matsuwin/closecmdpopup"
+    _ "github.com/2yanyi/closecmdpopup"
 )
 
 func main() {
